@@ -1,0 +1,15 @@
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\bin\Debug\net6.0\IfElseStatement.exe
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\bin\Debug\net6.0\IfElseStatement.deps.json
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\bin\Debug\net6.0\IfElseStatement.runtimeconfig.json
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\bin\Debug\net6.0\IfElseStatement.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\bin\Debug\net6.0\IfElseStatement.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.csproj.AssemblyReference.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.AssemblyInfoInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.AssemblyInfo.cs
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\refint\IfElseStatement.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\IfElseStatement.genruntimeconfig.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\IfElseStatement\IfElseStatement\obj\Debug\net6.0\ref\IfElseStatement.dll
